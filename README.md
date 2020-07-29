@@ -32,7 +32,7 @@ I, sometimes, blog about ML and Web `Basically whatever I want :grin:`.
 - I like to explore new student opportunities. Get in touch with me on Twiter to talk about any oppotunity, I'll be happy to talk about that. :pray:
 
 <!--
-**sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+D3nii/D3nii is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile and it's heavily inspired by sagar-viradiya's profile.
 
 - The Gif is from https://giphy.com/gifs/black-and-white-trippy-abstract-l1KdbtnCAlxSEzi1i
 -->
