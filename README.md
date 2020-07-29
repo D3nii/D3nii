@@ -9,7 +9,7 @@
 
 ## About me
 
-I'm Danyal Jamil, a Software Engineering Student and a Machine Learning Enthusiast :robot:. I'm a professional procrastinator. 👻 
+I'm Danyal Jamil, a Software Engineering Student and a Machine Learning Enthusiast :robot: and on top of everything, a professional procrastinator. 👻 
 
 I, sometimes, blog about ML and Web, `basically whatever I want!`:grin:
 
