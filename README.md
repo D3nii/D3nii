@@ -27,7 +27,7 @@ I, sometimes, blog about ML and Web `Basically whatever I want!`:grin:
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/d3ni/)
 - And of course GitHub you're already on (Recursion).
 
-## Fun fact :pray:
+## Fun fact :zap:
 
 - I like to explore new student opportunities. Get in touch with me on Twiter to talk about any oppotunity, I'll be happy to talk about that. :pray:
 
