@@ -29,7 +29,7 @@ I, sometimes, blog about ML and Web, `basically whatever I want!`:grin:
 
 ## Fun fact :zap:
 
-- I like to explore new student opportunities. Get in touch with me on Twiter to talk about any oppotunity, I'll be happy to talk about that. :pray:
+- I like to explore new student opportunities. Get in touch with me on Twiter to talk about any, I'll be happy to have a conversation. :pray:
 
 <!--
 D3nii/D3nii is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile and it's heavily inspired by sagar-viradiya's profile.
