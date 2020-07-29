@@ -1,6 +1,8 @@
 # Hello there! :wave:
 
-<img src="https://github.com/D3nii/D3nii/blob/master/resources/Ai.gif" alt="Hello world">
+<p align="center"> 
+	<img src="https://github.com/D3nii/D3nii/blob/master/resources/Ai.gif" alt="Hello world">
+</p>
 
 <p align="center"> 
   Visitor count<br>
