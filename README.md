@@ -1,4 +1,4 @@
-# Hey there :wave:
+# Hello there! :wave:
 
 <img src="https://github.com/D3nii/D3nii/blob/master/resources/Ai.gif" alt="Hello world">
 
@@ -9,7 +9,7 @@
 
 ## About me
 
-I'm Danyal Jamil, a Software Engineering Student and a Machine Learning Enthusiast :robot:. I'm very passionate in using both these together to make an impact on the world.
+I'm Danyal Jamil, a Software Engineering Student and a Machine Learning Enthusiast :robot:. I'm a professional procrastinator. 👻 
 
 I, sometimes, blog about ML and Web, `basically whatever I want!`:grin:
 
