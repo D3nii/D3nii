@@ -17,7 +17,7 @@ I, sometimes, blog about ML and Web `Basically whatever I want :grin:`.
 ## Things I am passionate about
 
 - Deep Learning :robot:
-- Web Development :Laptop:
+- Web Development :laptop:
 - Empowering the Communitt :muscle:
 
 ## Get in touch :coffee:
