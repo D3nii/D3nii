@@ -22,7 +22,7 @@ I, sometimes, blog about ML and Web, `basically whatever I want!`
 - Web Development 
 - Empowering the Community :muscle:
 
-## Get in touch :coffee:
+## Get in touch
 
 - My thought process on [Twitter](https://twitter.com/Danyal0_o).
 - Your favourite time pass on [Medium](https://medium.com/@D3nii).
