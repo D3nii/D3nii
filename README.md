@@ -11,27 +11,27 @@
 
 ## About me
 
-I'm Danyal Jamil, a Software Engineering Student and a Machine Learning Enthusiast :robot: and on top of everything, a professional procrastinator. 👻 
+I'm Danyal Jamil, a Software Engineering Student and a Machine Learning Enthusiast :robot: and on top of everything, a professional procrastinator. 
 
-I, sometimes, blog about ML and Web, `basically whatever I want!`:grin:
+I, sometimes, blog about ML and Web, `basically whatever I want!`
 
 
 ## Things I am passionate about
 
-- Deep Learning :robot:
-- Web Development 💻
+- Deep Learning
+- Web Development 
 - Empowering the Community :muscle:
 
 ## Get in touch :coffee:
 
 - My thought process on [Twitter](https://twitter.com/Danyal0_o).
-- Your favourite time pass :stuck_out_tongue: on [Medium](https://medium.com/@D3nii).
+- Your favourite time pass on [Medium](https://medium.com/@D3nii).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/d3ni/).
 - And of course GitHub you're already on (Recursion).
 
 ## Fun fact :zap:
 
-- I like to explore new student opportunities. Get in touch with me on Twitter to talk about any, I'll be happy to have a conversation. :pray:
+- I like to explore new student opportunities. Get in touch with me on Twitter to talk about any, I'll be happy to have a conversation.
 
 <!--
 D3nii/D3nii is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile and it's heavily inspired by sagar-viradiya's profile.
