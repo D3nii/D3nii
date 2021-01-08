@@ -1,4 +1,4 @@
-# Hello there! :wave:
+# Hello there!
 
 <p align="center"> 
 	<img src="https://github.com/D3nii/D3nii/blob/master/resources/Ai.gif" alt="Hello world">
@@ -18,9 +18,9 @@ I, sometimes, blog about ML and Web, `basically whatever I want!`
 
 ## Things I am passionate about
 
-- Deep Learning
-- Web Development 
-- Empowering the Community :muscle:
+- Deep Learning.
+- Web Development .
+- Empowering the Community. :muscle:
 
 ## Get in touch
 
