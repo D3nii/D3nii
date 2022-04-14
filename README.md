@@ -19,7 +19,7 @@ I, sometimes, blog about ML and Web, `basically whatever I want!`
 ## Things I am passionate about
 
 - Deep Learning.
-- Web Development .
+- Web Development.
 - Empowering the Community. :muscle:
 
 ## Get in touch
