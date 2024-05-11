@@ -27,7 +27,7 @@ I, sometimes, blog about ML and Web, `basically whatever I want!`
 - My thought process on [Twitter](https://twitter.com/Danyal0_o).
 - Your favourite time pass on [Medium](https://d3nyal.medium.com/).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/d3ni/).
-- And of course GitHub you're already on [Recursion](https://github.com/D3nii).
+- And of course GitHub you're already on [🤖 ~~_Recursion_~~](https://github.com/D3nii).
 
 ## Fun fact
 
